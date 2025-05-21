@@ -1,4 +1,4 @@
-**#Explicación de uso de Huawei ONT Auto Configurator (Spanish)**  
+**#Explicación de uso de Huawei ONT Auto Configurator (Español)**  
 **#Explanation of how to use Huawei ONT Auto Configurator (English)**  
 
 ---
