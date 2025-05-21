@@ -10,7 +10,7 @@ Esta herramienta permite cargar automáticamente archivos de configuración XML 
 1. Ejecuta el archivo `ONT_config_S080.exe` o `ONT_config_S035.exe`.  
 2. Selecciona tu navegador instalado (Chrome, Edge o Firefox).  
 3. Haz clic en el botón **INICIAR**.  
-4. La aplicación:  
+4. La aplicación de forma automatica realiza:
    - Accede a la ONT (http://192.168.100.1)  
    - Inicia sesión automáticamente  
    - Cierra el asistente de configuración si aparece  
@@ -31,7 +31,7 @@ This tool automatically uploads XML configuration files into Huawei EG8145X6 ONT
 1. Run `ONT_config_S080.exe` or `ONT_config_S035.exe`.  
 2. Select your installed browser (Chrome, Edge, or Firefox).  
 3. Click the **INICIAR** button.  
-4. The app will:  
+4. The application automatically performs:
    - Open the ONT page (http://192.168.100.1)  
    - Auto-login  
    - Close the setup wizard if needed  
