@@ -18,7 +18,7 @@ Esta herramienta permite cargar automáticamente archivos de configuración XML 
 5. Espera a que aparezca el mensaje final de éxito.
 
 ✅ Todo el proceso es automático.  
-❗ No cierres la ventana hasta que finalice.
+❗ No cierres la ventana hasta que finalice.  
 ❓ Si tienes cualquier problema cierra el ejecutable y vuelve a ejecutarlo.
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -39,5 +39,5 @@ This tool automatically uploads XML configuration files into Huawei EG8145X6 ONT
 5. Wait for the final success message to appear.
 
 ✅ The whole process is automatic.  
-❗ Do not close the window until it finishes.
+❗ Do not close the window until it finishes.  
 ❓ If you have any problems, close the executable and run it again.
