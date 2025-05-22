@@ -7,7 +7,7 @@
 Esta herramienta permite cargar automáticamente archivos de configuración XML en ONTs Huawei modelo EG8145X6 mediante una interfaz gráfica sencilla.
 
 **-¿Cómo usarla?:**  
-1. Ejecuta el archivo `ONT_config_S080.exe` o `ONT_config_S035.exe` (segun el modelo de router que quieras configurar).  
+1. Ejecuta el archivo `ONT_config_S080.exe` o `ONT_config_S035.exe`(segun el modelo de router que quieras configurar).  
 2. Selecciona tu navegador instalado (Chrome, Edge o Firefox).  
 3. Haz clic en el botón **INICIAR**.  
 4. La aplicación de forma automatica realizara:
@@ -28,7 +28,7 @@ Esta herramienta permite cargar automáticamente archivos de configuración XML 
 This tool automatically uploads XML configuration files into Huawei EG8145X6 ONTs using a simple GUI.
 
 **-Steps to follow:**  
-1. Run `ONT_config_S080.exe` or `ONT_config_S035.exe` (depending on the router model you want to configure).  
+1. Run `ONT_config_S080.exe` or `ONT_config_S035.exe`(depending on the router model you want to configure).  
 2. Select your installed browser (Chrome, Edge, or Firefox).  
 3. Click the **INICIAR** button.  
 4. The application will automatically perform:
