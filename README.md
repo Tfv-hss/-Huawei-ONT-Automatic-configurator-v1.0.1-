@@ -1,7 +1,7 @@
 **#Manual de explicación de uso de Huawei ONT Auto Configurator (Español)**  
 **#Manual explanation of how to use Huawei ONT Auto Configurator (English)**  
 
-**Created by Aitor Martinez García**
+**Created by Aitor Martinez García, Juan Zornoza García**
 
 ---
 
