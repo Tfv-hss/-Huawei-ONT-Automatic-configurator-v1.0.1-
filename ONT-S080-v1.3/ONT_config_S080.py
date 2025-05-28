@@ -20,7 +20,7 @@ PASSWORD = "admintelecom"
 
 def start_process(browser, status_callback):
     try:
-        status_callback("🚀 Iniciando navegador...")
+        status_callback("Iniciando navegador...")
 
         if browser == "Chrome":
             driver = webdriver.Chrome()
