@@ -20,7 +20,7 @@ PASSWORD = "admintelecom"
 
 def start_process(browser, status_callback):
     try:
-        status_callback("🚀 Iniciando navegador...")
+        status_callback("Iniciando navegador...")
 
         if browser == "Chrome":
             driver = webdriver.Chrome()
@@ -41,7 +41,7 @@ def start_process(browser, status_callback):
         wait = WebDriverWait(driver, 15)
         driver.get(ONT_IP)
 
-        status_callback("⌛ Esperando carga de la página...")
+        status_callback("Esperando carga de la página...")
         time.sleep(0)
         wait.until(EC.presence_of_element_located((By.ID, "txt_Username")))
 
@@ -68,14 +68,14 @@ def start_process(browser, status_callback):
             )
             exit_btn.click()
             status_callback(
-                "🔁 Asistente inicial detectado y cerrado con 'Exit'")
+                "Asistente inicial detectado y cerrado con 'Exit'")
             time.sleep(0)
         except:
             status_callback(
                 "✅ No se detectó asistente inicial, continuando rápido...")
 
         # Esperar a que la página cargue completamente
-        status_callback("🧭 Navegando al menú de carga...")
+        status_callback("Navegando al menú de carga...")
         advanced_btn = wait.until(EC.element_to_be_clickable(
             (By.XPATH, "//div[normalize-space()='Advanced']")))
         advanced_btn.click()
